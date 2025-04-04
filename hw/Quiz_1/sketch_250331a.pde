@@ -8,19 +8,6 @@ void draw()
 {
   background(0);
   
-  //circle(0, 0, 15);
-  
-  //strokeWeight(1);
-  
-  //color white = color(255, 255, 255);
-  //fill(white);
-  //stroke(white);
-  
-  //line(-75, -75, 75, 75);
-  
-  //line(0, -300, 0, 300);
-  //line(-300, 0, 300, 0);
-  
   drawCartesianPlane();
   drawLinearFunction();
   drawQuadraticFunction();
